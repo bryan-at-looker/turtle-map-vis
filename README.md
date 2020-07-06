@@ -1,3 +1,6 @@
+![Image of Turtle Map Vis](./images/turtle-zip-map.png)
+
+
 This marketplace install is used to make zip code maps using the Turtles beta feature. 
 
 
