@@ -8,7 +8,7 @@ This marketplace install is used to make zip code maps using the Turtles beta fe
 
 ```
 Git URL: git@github.com:bryan-at-looker/turtle-map-vis.git
-Git SHA: 90f91a3dff3de08fab08a01177d57e7d4986fbc0
+Git SHA: 324bbdffd24a36546c80c3bab7daf0e52fcebfb9
 ```
 
 2) Follow these [directions](https://docs.mapbox.com/help/how-mapbox-works/access-tokens) to get a free mapbox token.
