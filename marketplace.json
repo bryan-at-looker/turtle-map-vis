@@ -1,0 +1,19 @@
+{
+  "label": "Turtle Zip Map",
+  "category_label": "Plug-ins",
+  "branding": {
+    "image_uri": "https://svgsilh.com/png/576797-3f51b5.png",
+    "tagline": "Map of US by zip code using Looker's turtle beta feature"
+  },
+    "constants": {
+        "VIS_LABEL": {
+            "label": "Turtle Zip Map",
+            "description": "Mapbox visualization intended for mapping all US zip codes with Looker's turtle beta feature"
+        },
+        "VIS_ID": {
+            "label": "turtle-zip-map",
+            "description": "Report Table visualization.",
+            "value_constraint": "visualization"
+        }
+    }
+}
