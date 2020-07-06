@@ -1,5 +1,7 @@
 This marketplace install is used to make zip code maps using the Turtles beta feature. 
 
+
+
 0) Talk to your Looker team to get enrolled in the Turtles beta
 
 1) Follow these [directions](https://docs.looker.com/data-modeling/marketplace#installing_a_tool_from_a_git_url) to install via commit sha. 
@@ -17,7 +19,7 @@ Git SHA: 90f91a3dff3de08fab08a01177d57e7d4986fbc0
 dimension: your_zipcode {
   type: zipcode
   sql: ${TABLE}.zip ;;
-  tags: "pk.YourMapbox
+  tags: ["pk.YourMapbox"]
 }
 ```
 

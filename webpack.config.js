@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
   entry: './src/index.js',
   output: {
-    filename: 'turtle_zip_map.js',
+    filename: 'turtle-zip-map.js',
     path: path.resolve(__dirname),
   },
   devServer: {
